@@ -6,7 +6,7 @@
 - Lightweight and easy to use
 - All functionality in one class
 
-### Using
+### 📌 Using
 Just add [**DasTimeInterval** class](src/das/tools/DasTimeInterval.java) into project.
 
 Follow the example in [**TimeInterval** class](src/das/tools/TimeInterval.java):
